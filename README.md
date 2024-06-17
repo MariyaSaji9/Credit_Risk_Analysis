@@ -27,16 +27,24 @@ Risk analytics, a pivotal facet of modern financial services, is instrumental in
 ## 1. Data Understanding
 ### Datasets
 1. **Application_data**: Contains all the information of the client at the time of application.
+
+[Application dataset](https://drive.google.com/file/d/11Skr1Nby-tubrIZz9amOknrunepdOBc0/view?usp=drive_link)
+
    - Data Structure: (307511 rows, 122 columns)
    - No. of Categorical Variables: 16
    - No. of Numerical Variables: 106
    - Target/Output Variable: TARGET
 
 2. **Previous_application**: Contains information about the client’s previous loan data.
+
+[Previous Application Dataset](https://drive.google.com/file/d/1wWwmPF0cStJvV1qRpBsGTX27B0NqkLuh/view?usp=drive_link)
+
    - Data Structure: (1048575 rows, 37 columns)
    - No. of Categorical Variables: 16
    - No. of Numerical Variables: 21
    - Target/Output Variable: NAME_CONTRACT_STATUS
+
+[Feature Description](https://drive.google.com/file/d/1eIe-x7jCA419PB4YwpQZ-6EhHC0CPGdM/view?usp=drive_link)
 
 ## 2. Missing Data Handling
 ### Merging the Data
